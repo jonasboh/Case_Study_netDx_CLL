@@ -2,7 +2,7 @@
 title: "NetDx analysis on chronic lymphocytic leukemia"
 author: "Jonas Bohn"
 date: "1/14/2021"
-output: word_document
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
