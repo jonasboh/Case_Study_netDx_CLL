@@ -2,7 +2,7 @@
 
 This case study illustrates the usage of supervised multi-omics data integration.
 The used data set is included in the MOFAdata package [[1]](#1) and is a part of the review manuskript (Evaluation of multi-omics methodologies and tools for identification of putative biomarkers and causal molecular networks in translational cancer research).  
-We aim to illustrate the usage of netDx [[2]](#2) as an example for supervised multi-omics data integration.
+We aim to illustrate the usage of netDx [[2,3]](#2#3) as an example for supervised multi-omics data integration.
 
 ## Start supervised multi-omics analysis with netDx
 
@@ -403,3 +403,5 @@ Argelaguet R, Velten B, Arnol D, Buettner F, Huber W, Stegle O (2020). MOFAdata:
 <a id="2">[2]</a> 
 Pai, S., Hui, S., Isserlin, R., Shah, M. A., Kaka, H., & Bader, G. D. (2019). netDx: interpretable patient classification using integrated patient similarity networks. Mol Syst Biol, 15(3), e8497. doi:10.15252/msb.20188497
 
+<a id="3">[3]</a> 
+Pai, S., Weber, P., Isserlin, R., Kaka, H., Hui, S., Shah, M. A., . . . Bader, G. D. (2020). netDx: Software for building interpretable patient classifiers by multi-'omic data integration using patient similarity networks. F1000Research, 9. doi:10.12688/f1000research.26429.1
