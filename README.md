@@ -401,4 +401,5 @@ sessionInfo()
 Argelaguet R, Velten B, Arnol D, Buettner F, Huber W, Stegle O (2020). MOFAdata: Data package for Multi-Omics Factor Analysis (MOFA). R package version 1.6.0.
 
 <a id="2">[2]</a> 
-Pai, S., et al., netDx: interpretable patient classification using integrated patient similarity networks. Mol Syst Biol, 2019. 15(3): p. e8497.
+Pai, S., Hui, S., Isserlin, R., Shah, M. A., Kaka, H., & Bader, G. D. (2019). netDx: interpretable patient classification using integrated patient similarity networks. Mol Syst Biol, 15(3), e8497. doi:10.15252/msb.20188497
+
