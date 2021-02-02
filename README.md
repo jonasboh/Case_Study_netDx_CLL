@@ -1,8 +1,10 @@
-# Case Study netDx on CLL
+# Case Study on Chronic lymphocytic leukemia (CLL)
 
 This case study illustrates the usage of supervised multi-omics data integration.
-The used data set is included in the MOFAdata package citation("MOFAdata") and is a part of the review manuskript (Evaluation of multi-omics methodologies and tools for identification of putative biomarkers and causal molecular networks in translational cancer research).  
-We aim to illustrate the usage of netDx as an example for supervised multi-omics data integration.
+The used data set is included in the MOFAdata package [[1]](#1) and is a part of the review manuskript (Evaluation of multi-omics methodologies and tools for identification of putative biomarkers and causal molecular networks in translational cancer research).  
+We aim to illustrate the usage of netDx [[2]](#2) as an example for supervised multi-omics data integration.
+
+## Start supervised multi-omics analysis with netDx
 
 Before starting the analysis we generate an output folder in the working directory of the user in order to not overwrite something.
 
@@ -392,3 +394,11 @@ System information for reproducibility
 ```{r Information about System configuration}   
 sessionInfo()
 ``` 
+
+## References
+
+<a id="1">[1]</a> 
+Argelaguet R, Velten B, Arnol D, Buettner F, Huber W, Stegle O (2020). MOFAdata: Data package for Multi-Omics Factor Analysis (MOFA). R package version 1.6.0.
+
+<a id="2">[2]</a> 
+Pai, S., et al., netDx: interpretable patient classification using integrated patient similarity networks. Mol Syst Biol, 2019. 15(3): p. e8497.
