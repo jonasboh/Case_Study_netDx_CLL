@@ -2,7 +2,7 @@
 
 This case study illustrates the usage of supervised multi-omics data integration published in our review "A Detailed Catalogue of 
 Multi-Omics Methodologies for Identification of Putative Biomarkers and 
-Causal Molecular Networks in Translational Cancer Research".
+Causal Molecular Networks in Translational Cancer Research" (https://doi.org/10.3390/ijms22062822).
 The used data set is included in the MOFAdata package [[1]](#1) and is a part of the review manuskript (Evaluation of multi-omics methodologies and tools for identification of putative biomarkers and causal molecular networks in translational cancer research).  
 We aim to illustrate the usage of netDx [[2,3]](#2#3) as an example for supervised multi-omics data integration.
 
